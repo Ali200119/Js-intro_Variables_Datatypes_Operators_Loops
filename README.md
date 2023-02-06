@@ -1,1 +1,1 @@
-# Js-intro_Variables_Datatypes_Operators_Loops
+Homework for Tuesday (01.02.2023)
