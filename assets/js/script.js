@@ -181,3 +181,30 @@
 //     console.log(i);    
 // }
 
+// let result = 2**5;
+
+// console.log(result);
+
+// console.log(7 / 0);
+
+// console.log("8" / 4);
+
+// console.log(4 + "10");
+
+// console.log("2" * 3);
+
+// console.log("Hello" * 7);
+
+// console.log("Hi" + 5);
+
+// let isMarried = true;
+
+// let result = isMarried?"Evlidir":"Subaydir";
+
+// console.log(result);
+
+// let address = "Xetai";
+
+// let result = address??"Not found";
+
+// console.log(result);
